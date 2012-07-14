@@ -1,0 +1,19 @@
+
+TODO
+
+iAuditorcli version 0.1 beta (14/07/2012):
+===========================================
+
+- Add handling for signals
+
+- Add handling for arrow keys to maintain command line history
+
+- Expand binscan to parse symbol table. Add export checks for SDL functions, stack cookies & ARC
+
+
+
+
+
+
+
+

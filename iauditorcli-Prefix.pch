@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'iauditorcli' target in the 'iauditorcli' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

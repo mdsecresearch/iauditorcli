@@ -1,0 +1,17 @@
+Package: MDSec.iauditorcli
+Name: iauditorcli
+Version: 0.1-1
+Description: 
+Section: System
+Depends: firmware (>= 5.0)
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Dominic Chell
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
